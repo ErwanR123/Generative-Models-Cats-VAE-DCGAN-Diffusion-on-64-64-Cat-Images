@@ -4,7 +4,7 @@ This repository explores three families of modern generative models applied to a
 
 - **Variational Autoencoder (VAE)**
 - **Deep Convolutional GAN (DCGAN)**
-- **Denoising Diffusion Probabilistic Model (DDPM)**
+- **Denoising Diffusion Probabilistic Model (DDPM)** *(implementation in progress)*
 
 Each model is implemented **from scratch** in PyTorch and trained on the same dataset to allow a fair qualitative and conceptual comparison.
 ---
